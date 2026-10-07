@@ -1,0 +1,10 @@
+{
+  "name": "browser-demo-video",
+  "version": "1.0.0",
+  "description": "Narrated, chaptered 1080p demo and walkthrough videos of any browser-based product, scripted as code so re-takes are automatic.",
+  "author": { "name": "Roopak Nijhara", "url": "https://github.com/rnijhara" },
+  "homepage": "https://github.com/rnijhara/claude-skills",
+  "repository": "https://github.com/rnijhara/claude-skills",
+  "license": "MIT",
+  "keywords": ["demo", "video", "walkthrough", "screencast", "playwright", "tts", "ffmpeg"]
+}

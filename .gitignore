@@ -1,0 +1,6 @@
+node_modules/
+takes/
+audio/
+.profile/
+*.mp4
+.DS_Store

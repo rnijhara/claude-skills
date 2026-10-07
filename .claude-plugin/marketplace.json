@@ -1,0 +1,14 @@
+{
+  "name": "rnijhara-skills",
+  "owner": { "name": "Roopak Nijhara", "url": "https://github.com/rnijhara" },
+  "metadata": { "description": "Claude Code skills by Roopak Nijhara." },
+  "plugins": [
+    {
+      "name": "browser-demo-video",
+      "source": "./plugins/browser-demo-video",
+      "description": "Narrated, chaptered 1080p demo and walkthrough videos of any browser-based product, scripted as code so re-takes are automatic.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

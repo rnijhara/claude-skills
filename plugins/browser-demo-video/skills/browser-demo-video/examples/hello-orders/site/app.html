@@ -1,0 +1,4 @@
+<!doctype html><html><meta charset="utf-8"><body style="font:16px system-ui;padding:24px"><h1>Orders</h1><p id="status">Loading…</p>
+<button id="add">Add order</button><ul id="list"></ul>
+<script>setTimeout(()=>{document.getElementById('status').textContent='Loaded'},2500);
+document.getElementById('add').onclick=()=>{const l=document.getElementById('list'),li=document.createElement('li');li.textContent='Order '+(l.children.length+1);l.appendChild(li)}</script></body></html>
